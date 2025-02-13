@@ -61,7 +61,7 @@ DEFAULT_TIMEOUT = 120
 DEFAULT_MINIMUM_CLIENT_TIME = 0
 """Default minimum time to allow each client to work."""
 
-DEFAULT_PATTERN = ".*.bin-runtime"
+DEFAULT_PATTERN = ".*.hex"
 """Default filename pattern for contract files."""
 
 DEFAULT_NUM_JOBS = max(int(cpu_count() * 0.9), 1)
