@@ -1,0 +1,9 @@
+**/__pycache__
+.env
+.history
+.idea/
+.DS_Store
+crpwarner/groundtruth/~$groundTruth.xlsx
+
+.*temp/
+*results.json
